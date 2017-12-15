@@ -1,0 +1,100 @@
+/*csslint order-alphabetical: false*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+   padding: 50px 50px 50px;
+    background-color: #488ccd;
+    color: white;
+    
+}
+
+h1{
+    font-weight: 200;
+    font-size: 30px;
+    margin: 40px 0 40px 0
+        
+    
+}
+        
+.fo-menu{
+   font-weight: 200;
+ background-color: #284c80;
+    
+}
+ 
+.fo-menu .menupont{
+    color: rgb(188, 248, 255);
+    margin-left: 20px;
+    padding: 20px 0 20px 0;
+    display: inline-block;
+    
+}
+
+.menupont:hover{
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+}
+
+
+h2{
+    font-size: 40px;
+    color: rgb(237,245,255);
+    margin-top: 40px;
+    margin-bottom: 5px;
+    
+    
+
+    
+    
+}
+
+h3{
+    color: #284c80;
+    font-size: 14px;
+    font-style: italic;
+    
+        
+}  
+.bevezeto{
+    font-weight: 400;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    
+    
+    
+   
+}
+    
+.bevezeto .tartalom{
+    line-height: 1.7;
+    color: white;
+    width: 800px;
+}
+    
+    
+    
+    
+
+       
+    
+        
+        
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
